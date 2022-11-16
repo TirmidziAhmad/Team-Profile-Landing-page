@@ -1,0 +1,81 @@
+body {
+  font-family: "Montserrat", sans-serif !important;
+  min-height: 200px;
+}
+/*index */
+.jumbotron {
+  background-color: #343b3f;
+  padding-top: 80px;
+  padding-bottom: 14.5rem;
+}
+.teksjumbotron {
+  margin-top: 7rem;
+}
+.navbar-nav {
+  padding-right: 20px !important;
+}
+
+.nav-item {
+  margin-left: 10px;
+}
+.btn {
+  border-radius: 0px !important;
+}
+#about {
+  padding: 5rem 0rem;
+}
+.p1 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+.p2 {
+  font-size: 20px;
+}
+.p3 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+.p4 {
+  font-size: 20px;
+}
+#service {
+  background-color: #343b3f;
+  padding: 5rem 0rem;
+}
+.conten2 img {
+  height: 70px;
+}
+.conten3 img {
+  width: 250px;
+}
+#project {
+  padding: 3rem 0rem;
+}
+/* project*/
+.projects {
+  padding: 7rem 0rem;
+}
+#contact {
+  background-color: #343b3f;
+  padding: 3rem 0;
+}
+/*about*/
+.about {
+  padding-top: 8rem;
+  padding-bottom: 3rem;
+}
+.containerino {
+  background-color: #343b3f;
+}
+.kontakkami {
+  padding: 10px 0;
+  background-color: #343b3f;
+}
+/* hubungi */
+.hubungi {
+  padding-top: 7rem;
+  padding-bottom: 3rem;
+}
+.bgcard {
+  background-color: #343b3f;
+}
